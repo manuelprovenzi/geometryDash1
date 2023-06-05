@@ -1,6 +1,6 @@
 #pragma once
 
-#define ciao ddd
+
 
 #define CUBO 'C'
 #define DOPPIO 'D'
